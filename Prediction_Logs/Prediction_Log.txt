@@ -1,0 +1,31 @@
+2020-05-18/20:54:08		Start of Validation on files for prediction!!
+2020-05-18/21:04:07		Start of Prediction
+2020-05-18/21:04:07		Entered the get_data method of the Data_Getter class
+2020-05-18/21:04:07		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-18/21:04:07		Entered the is_null_present method of the Preprocessor class
+2020-05-18/21:04:07		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-18/21:04:13		Entered the scale_numerical_columns method of the Preprocessor class
+2020-05-18/21:04:13		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-05-18/21:04:14		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2020-05-18/21:04:14		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2020-05-18/21:04:27		Entered the remove_columns method of the Preprocessor class
+2020-05-18/21:04:27		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-05-18/21:04:31		Entered the find_correct_model_file method of the File_Operation class
+2020-05-18/21:04:31		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-18/21:04:31		Entered the load_model method of the File_Operation class
+2020-05-18/21:04:31		Model File KNN loaded. Exited the load_model method of the Model_Finder class
+2020-05-18/21:04:35		End of Prediction
+2020-05-18/21:08:54		Start of Prediction
+2020-05-18/21:08:54		Entered the get_data method of the Data_Getter class
+2020-05-18/21:08:54		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-18/21:08:54		Entered the is_null_present method of the Preprocessor class
+2020-05-18/21:08:54		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-18/21:09:07		Entered the remove_columns method of the Preprocessor class
+2020-05-18/21:09:07		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-05-18/21:09:20		Entered the scale_numerical_columns method of the Preprocessor class
+2020-05-18/21:09:20		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-05-18/21:09:20		Entered the find_correct_model_file method of the File_Operation class
+2020-05-18/21:09:20		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-18/21:09:20		Entered the load_model method of the File_Operation class
+2020-05-18/21:09:20		Model File KNN loaded. Exited the load_model method of the Model_Finder class
+2020-05-18/21:09:35		End of Prediction

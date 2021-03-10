@@ -1,0 +1,12 @@
+2020-05-18/20:47:44		BadRaw directory deleted before starting validation!!!
+2020-05-18/20:47:44		GoodRaw directory deleted successfully!!!
+2020-05-18/20:49:35		BadRaw directory deleted before starting validation!!!
+2020-05-18/20:49:35		GoodRaw directory deleted successfully!!!
+2020-05-18/20:50:52		BadRaw directory deleted before starting validation!!!
+2020-05-18/20:50:52		GoodRaw directory deleted successfully!!!
+2020-05-18/20:54:08		BadRaw directory deleted before starting validation!!!
+2020-05-18/20:54:08		GoodRaw directory deleted successfully!!!
+2020-05-18/20:54:08		Error while creating Directory [WinError 5] Access is denied: 'Prediction_Raw_Files_Validated/Good_Raw/':
+2020-05-18/20:58:20		GoodRaw directory deleted successfully!!!
+2020-05-18/20:58:20		Bad files moved to archive
+2020-05-18/20:58:20		Bad Raw Data Folder Deleted successfully!!

@@ -1,0 +1,2 @@
+2020-05-18/20:54:32		 ApsFailure_10051998_120216.csv: Quotes added successfully!!
+2020-05-18/20:54:33		 ApsFailure_10051999_120217.csv: Quotes added successfully!!
