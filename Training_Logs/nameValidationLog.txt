@@ -1,0 +1,51 @@
+2020-05-18/16:27:26		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051992_120210.csv
+2020-05-18/16:27:28		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051993_120211.csv
+2020-05-18/16:27:30		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051994_120212.csv
+2020-05-18/16:27:32		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051995_120213.csv
+2020-05-18/16:27:33		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051996_120214.csv
+2020-05-18/16:27:35		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051997_120215.csv
+2020-05-18/16:27:36		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051998_120216.csv
+2020-05-18/16:27:38		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051999_120217.csv
+2020-05-18/16:27:40		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10052000_120218.csv
+2020-05-18/16:27:42		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10052001_120219.csv
+2020-05-18/16:27:44		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10052002_120220.csv
+2020-05-18/16:27:46		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_11052001_120219.csv
+2020-05-18/16:27:51		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_13052002_120220.csv
+2020-05-18/16:27:53		Invalid File Name!! File moved to Bad Raw Folder :: ApsFailure_152000_120218.csv
+2020-05-18/16:33:02		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051992_120210.csv
+2020-05-18/16:33:02		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051993_120211.csv
+2020-05-18/16:33:02		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051994_120212.csv
+2020-05-18/16:33:02		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051995_120213.csv
+2020-05-18/16:33:02		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051996_120214.csv
+2020-05-18/16:33:02		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051997_120215.csv
+2020-05-18/16:33:02		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051998_120216.csv
+2020-05-18/16:33:02		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051999_120217.csv
+2020-05-18/16:33:02		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10052000_120218.csv
+2020-05-18/16:33:02		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10052001_120219.csv
+2020-05-18/16:33:02		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10052002_120220.csv
+2020-05-18/16:33:02		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_11052001_120219.csv
+2020-05-18/16:33:02		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_13052002_120220.csv
+2020-05-18/16:33:02		Invalid File Name!! File moved to Bad Raw Folder :: ApsFailure_152000_120218.csv
+2020-05-18/16:34:56		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051992_120210.csv
+2020-05-18/16:34:56		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051993_120211.csv
+2020-05-18/16:34:56		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051994_120212.csv
+2020-05-18/16:34:56		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051995_120213.csv
+2020-05-18/16:34:56		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051996_120214.csv
+2020-05-18/16:34:56		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051997_120215.csv
+2020-05-18/16:34:56		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051998_120216.csv
+2020-05-18/16:34:56		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051999_120217.csv
+2020-05-18/16:34:56		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10052000_120218.csv
+2020-05-18/16:34:56		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10052001_120219.csv
+2020-05-18/16:34:56		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10052002_120220.csv
+2020-05-18/16:34:56		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_11052001_120219.csv
+2020-05-18/16:34:56		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_13052002_120220.csv
+2020-05-18/16:34:56		Invalid File Name!! File moved to Bad Raw Folder :: ApsFailure_152000_120218.csv
+2020-05-18/20:06:41		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051992_120210.csv
+2020-05-18/20:06:41		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051993_120211.csv
+2020-05-18/20:06:41		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051994_120212.csv
+2020-05-18/20:06:41		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051995_120213.csv
+2020-05-18/20:06:41		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051996_120214.csv
+2020-05-18/20:06:41		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_10051997_120215.csv
+2020-05-18/20:06:41		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_11052001_120219.csv
+2020-05-18/20:06:41		Valid File name!! File moved to GoodRaw Folder :: ApsFailure_13052002_120220.csv
+2020-05-18/20:06:41		Invalid File Name!! File moved to Bad Raw Folder :: ApsFailure_152000_120218.csv

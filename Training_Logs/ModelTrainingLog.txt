@@ -1,0 +1,226 @@
+2020-05-18/17:28:28		Start of Training
+2020-05-18/17:28:28		Entered the get_data method of the Data_Getter class
+2020-05-18/17:28:28		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-18/17:28:28		Entered the is_null_present method of the Preprocessor class
+2020-05-18/17:28:28		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-18/17:28:29		Unsuccessful End of Training
+2020-05-18/17:28:37		Start of Training
+2020-05-18/17:28:37		Entered the get_data method of the Data_Getter class
+2020-05-18/17:28:38		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-18/17:28:38		Entered the is_null_present method of the Preprocessor class
+2020-05-18/17:28:39		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-18/17:28:39		Unsuccessful End of Training
+2020-05-18/17:29:02		Start of Training
+2020-05-18/17:29:03		Entered the get_data method of the Data_Getter class
+2020-05-18/17:29:04		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-18/17:29:17		Entered the is_null_present method of the Preprocessor class
+2020-05-18/17:29:35		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-18/17:29:50		Unsuccessful End of Training
+2020-05-18/17:52:31		Start of Training
+2020-05-18/17:52:31		Entered the get_data method of the Data_Getter class
+2020-05-18/17:52:32		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-18/17:52:32		Entered the is_null_present method of the Preprocessor class
+2020-05-18/17:52:32		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-18/17:52:35		Entered the separate_label_feature method of the Preprocessor class
+2020-05-18/17:52:35		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-05-18/17:52:35		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2020-05-18/17:52:36		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2020-05-18/17:52:36		Entered the remove_columns method of the Preprocessor class
+2020-05-18/17:52:36		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-05-18/17:52:36		Entered the scale_numerical_columns method of the Preprocessor class
+2020-05-18/17:52:36		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-05-18/17:52:37		Entered the elbow_plot method of the KMeansClustering class
+2020-05-18/17:52:52		The optimum number of clusters is: 5 . Exited the elbow_plot method of the KMeansClustering class
+2020-05-18/17:52:52		Entered the create_clusters method of the KMeansClustering class
+2020-05-18/17:52:53		Entered the save_model method of the File_Operation class
+2020-05-18/17:52:53		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-05-18/17:52:53		succesfully created 5clusters. Exited the create_clusters method of the KMeansClustering class
+2020-05-18/17:53:03		Entered the get_best_model method of the Model_Finder class
+2020-05-18/17:53:04		Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+2020-05-18/18:18:46		KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 8, 'p': 2}. Exited the KNN method of the Model_Finder class
+2020-05-18/18:20:02		AUC for XGBoost:0.9998612267554816
+2020-05-18/18:20:05		Entered the get_best_params_for_svm method of the Model_Finder class
+2020-05-18/18:22:16		SVM best params: {'C': 1.0, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+2020-05-18/18:22:34		AUC for SVM:0.9995733788395904
+2020-05-18/18:22:41		Entered the save_model method of the File_Operation class
+2020-05-18/18:22:41		Model File KNN1 saved. Exited the save_model method of the Model_Finder class
+2020-05-18/18:33:38		Entered the get_best_model method of the Model_Finder class
+2020-05-18/18:33:44		Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+2020-05-18/18:34:16		KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+2020-05-18/18:37:00		Accuracy for XGBoost:1.0
+2020-05-18/18:37:01		Entered the get_best_params_for_svm method of the Model_Finder class
+2020-05-18/18:37:03		SVM best params: {'C': 0.1, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+2020-05-18/18:38:19		Accuracy for SVM:1.0
+2020-05-18/18:38:26		Entered the save_model method of the File_Operation class
+2020-05-18/18:38:26		Model File SVM3 saved. Exited the save_model method of the Model_Finder class
+2020-05-18/18:38:27		Entered the get_best_model method of the Model_Finder class
+2020-05-18/18:38:31		Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+2020-05-18/18:39:31		KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+2020-05-18/18:39:31		Accuracy for XGBoost:1.0
+2020-05-18/18:39:31		Entered the get_best_params_for_svm method of the Model_Finder class
+2020-05-18/18:39:33		SVM best params: {'C': 0.1, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+2020-05-18/18:39:33		Accuracy for SVM:1.0
+2020-05-18/18:39:33		Entered the save_model method of the File_Operation class
+2020-05-18/18:39:33		Model File SVM0 saved. Exited the save_model method of the Model_Finder class
+2020-05-18/18:39:33		Entered the get_best_model method of the Model_Finder class
+2020-05-18/18:39:33		Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+2020-05-18/18:43:27		KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+2020-05-18/18:43:28		AUC for XGBoost:0.9864864864864865
+2020-05-18/18:43:28		Entered the get_best_params_for_svm method of the Model_Finder class
+2020-05-18/18:43:43		SVM best params: {'C': 0.5, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+2020-05-18/18:43:43		AUC for SVM:0.9864864864864865
+2020-05-18/18:43:43		Entered the save_model method of the File_Operation class
+2020-05-18/18:43:43		Model File SVM4 saved. Exited the save_model method of the Model_Finder class
+2020-05-18/18:43:43		Entered the get_best_model method of the Model_Finder class
+2020-05-18/18:43:43		Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+2020-05-18/18:44:17		KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+2020-05-18/18:44:17		Accuracy for XGBoost:1.0
+2020-05-18/18:44:17		Entered the get_best_params_for_svm method of the Model_Finder class
+2020-05-18/18:44:19		Exception occured in get_best_params_for_svm method of the Model_Finder class. Exception message:  The number of classes has to be greater than one; got 1 class
+2020-05-18/18:44:19		SVM training  failed. Exited the get_best_params_for_svm method of the Model_Finder class
+2020-05-18/18:44:19		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2020-05-18/18:44:19		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2020-05-18/18:44:19		Unsuccessful End of Training
+2020-05-18/18:50:04		Start of Training
+2020-05-18/18:50:04		Entered the get_data method of the Data_Getter class
+2020-05-18/18:50:05		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-18/18:50:05		Entered the is_null_present method of the Preprocessor class
+2020-05-18/18:50:05		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-18/18:50:07		Entered the separate_label_feature method of the Preprocessor class
+2020-05-18/18:50:07		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-05-18/18:50:07		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2020-05-18/18:50:08		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2020-05-18/18:50:08		Entered the remove_columns method of the Preprocessor class
+2020-05-18/18:50:08		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-05-18/18:50:08		Entered the scale_numerical_columns method of the Preprocessor class
+2020-05-18/18:50:08		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-05-18/18:50:09		Entered the elbow_plot method of the KMeansClustering class
+2020-05-18/18:50:24		The optimum number of clusters is: 5 . Exited the elbow_plot method of the KMeansClustering class
+2020-05-18/18:50:24		Entered the create_clusters method of the KMeansClustering class
+2020-05-18/18:50:26		Entered the save_model method of the File_Operation class
+2020-05-18/18:50:26		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-05-18/18:50:26		succesfully created 5clusters. Exited the create_clusters method of the KMeansClustering class
+2020-05-18/18:50:30		Entered the get_best_model method of the Model_Finder class
+2020-05-18/18:50:30		Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+2020-05-18/19:00:35		Exception occured in knn method of the Model_Finder class. Exception message:  [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\MOHITK~1\\AppData\\Local\\Temp\\joblib_memmapping_folder_16120_5877249145\\16120-1699293779976-f65eb50abee44e40a42e9bbd6a1e4b63.pkl'
+2020-05-18/19:00:35		knn Parameter tuning  failed. Exited the knn method of the Model_Finder class
+2020-05-18/19:00:35		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2020-05-18/19:00:35		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2020-05-18/19:00:35		Unsuccessful End of Training
+2020-05-18/19:02:04		Start of Training
+2020-05-18/19:02:04		Entered the get_data method of the Data_Getter class
+2020-05-18/19:02:05		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-18/19:02:05		Entered the is_null_present method of the Preprocessor class
+2020-05-18/19:02:05		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-18/19:02:08		Entered the separate_label_feature method of the Preprocessor class
+2020-05-18/19:02:08		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-05-18/19:02:08		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2020-05-18/19:02:09		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2020-05-18/19:02:09		Entered the remove_columns method of the Preprocessor class
+2020-05-18/19:02:09		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-05-18/19:02:09		Entered the scale_numerical_columns method of the Preprocessor class
+2020-05-18/19:02:09		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-05-18/19:02:10		Entered the elbow_plot method of the KMeansClustering class
+2020-05-18/19:02:24		The optimum number of clusters is: 5 . Exited the elbow_plot method of the KMeansClustering class
+2020-05-18/19:02:24		Entered the create_clusters method of the KMeansClustering class
+2020-05-18/19:02:25		Entered the save_model method of the File_Operation class
+2020-05-18/19:02:25		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-05-18/19:02:25		succesfully created 5clusters. Exited the create_clusters method of the KMeansClustering class
+2020-05-18/19:03:03		Entered the get_best_model method of the Model_Finder class
+2020-05-18/19:03:03		Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+2020-05-18/19:24:29		KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+2020-05-18/19:24:31		AUC for XGBoost:0.9998611882287618
+2020-05-18/19:24:31		Entered the get_best_params_for_svm method of the Model_Finder class
+2020-05-18/19:25:28		Exception occured in get_best_params_for_svm method of the Model_Finder class. Exception message:  [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\MOHITK~1\\AppData\\Local\\Temp\\joblib_memmapping_folder_16432_5617561751\\16432-2285484755144-38a261b6ea624e3f83a1677be081fb5c.pkl'
+2020-05-18/19:25:28		SVM training  failed. Exited the get_best_params_for_svm method of the Model_Finder class
+2020-05-18/19:25:28		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2020-05-18/19:25:28		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2020-05-18/19:25:28		Unsuccessful End of Training
+2020-05-18/20:14:01		Start of Training
+2020-05-18/20:14:01		Entered the get_data method of the Data_Getter class
+2020-05-18/20:14:01		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-18/20:14:01		Entered the is_null_present method of the Preprocessor class
+2020-05-18/20:14:01		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-18/20:14:01		Entered the separate_label_feature method of the Preprocessor class
+2020-05-18/20:14:01		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-05-18/20:14:01		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2020-05-18/20:14:02		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2020-05-18/20:14:02		Entered the remove_columns method of the Preprocessor class
+2020-05-18/20:14:02		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-05-18/20:14:02		Entered the scale_numerical_columns method of the Preprocessor class
+2020-05-18/20:14:02		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-05-18/20:14:03		Entered the elbow_plot method of the KMeansClustering class
+2020-05-18/20:14:10		The optimum number of clusters is: 5 . Exited the elbow_plot method of the KMeansClustering class
+2020-05-18/20:14:10		Entered the create_clusters method of the KMeansClustering class
+2020-05-18/20:14:11		Entered the save_model method of the File_Operation class
+2020-05-18/20:14:11		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-05-18/20:14:11		succesfully created 5clusters. Exited the create_clusters method of the KMeansClustering class
+2020-05-18/20:14:39		Entered the get_best_model method of the Model_Finder class
+2020-05-18/20:14:39		Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+2020-05-18/20:18:47		KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+2020-05-18/20:18:48		AUC for XGBoost:0.9997443762781186
+2020-05-18/20:18:48		Entered the get_best_params_for_svm method of the Model_Finder class
+2020-05-18/20:19:21		SVM best params: {'C': 0.5, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+2020-05-18/20:19:21		AUC for SVM:1.0
+2020-05-18/20:19:21		Entered the save_model method of the File_Operation class
+2020-05-18/20:19:21		Model File SVM1 saved. Exited the save_model method of the Model_Finder class
+2020-05-18/20:19:57		Entered the get_best_model method of the Model_Finder class
+2020-05-18/20:19:57		Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+2020-05-18/20:20:24		KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 2}. Exited the KNN method of the Model_Finder class
+2020-05-18/20:20:24		AUC for XGBoost:0.96875
+2020-05-18/20:20:24		Entered the get_best_params_for_svm method of the Model_Finder class
+2020-05-18/20:20:28		SVM best params: {'C': 1.0, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+2020-05-18/20:20:28		AUC for SVM:0.9375
+2020-05-18/20:21:31		Entered the save_model method of the File_Operation class
+2020-05-18/20:21:31		Model File KNN0 saved. Exited the save_model method of the Model_Finder class
+2020-05-18/20:21:56		Entered the get_best_model method of the Model_Finder class
+2020-05-18/20:21:56		Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+2020-05-18/20:22:08		KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+2020-05-18/20:22:08		Accuracy for XGBoost:1.0
+2020-05-18/20:22:08		Entered the get_best_params_for_svm method of the Model_Finder class
+2020-05-18/20:22:09		SVM best params: {'C': 0.1, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+2020-05-18/20:22:09		Accuracy for SVM:1.0
+2020-05-18/20:22:27		Entered the save_model method of the File_Operation class
+2020-05-18/20:22:27		Model File SVM2 saved. Exited the save_model method of the Model_Finder class
+2020-05-18/20:22:57		Entered the get_best_model method of the Model_Finder class
+2020-05-18/20:22:57		Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+2020-05-18/20:23:02		KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+2020-05-18/20:23:02		Accuracy for XGBoost:1.0
+2020-05-18/20:23:02		Entered the get_best_params_for_svm method of the Model_Finder class
+2020-05-18/20:23:03		SVM best params: {'C': 0.1, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+2020-05-18/20:23:03		Accuracy for SVM:1.0
+2020-05-18/20:23:03		Entered the save_model method of the File_Operation class
+2020-05-18/20:23:03		Model File SVM4 saved. Exited the save_model method of the Model_Finder class
+2020-05-18/20:23:39		Entered the get_best_model method of the Model_Finder class
+2020-05-18/20:23:39		Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+2020-05-18/20:23:45		KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+2020-05-18/20:23:45		Accuracy for XGBoost:1.0
+2020-05-18/20:23:45		Entered the get_best_params_for_svm method of the Model_Finder class
+2020-05-18/20:23:45		Exception occured in get_best_params_for_svm method of the Model_Finder class. Exception message:  The number of classes has to be greater than one; got 1 class
+2020-05-18/20:23:45		SVM training  failed. Exited the get_best_params_for_svm method of the Model_Finder class
+2020-05-18/20:23:45		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2020-05-18/20:23:45		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2020-05-18/20:23:45		Unsuccessful End of Training
+2020-05-18/20:34:34		Start of Training
+2020-05-18/20:34:34		Entered the get_data method of the Data_Getter class
+2020-05-18/20:34:34		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-18/20:34:34		Entered the is_null_present method of the Preprocessor class
+2020-05-18/20:34:34		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-18/20:34:35		Entered the separate_label_feature method of the Preprocessor class
+2020-05-18/20:34:35		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-05-18/20:34:35		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2020-05-18/20:34:35		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2020-05-18/20:34:35		Entered the remove_columns method of the Preprocessor class
+2020-05-18/20:34:35		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-05-18/20:34:35		Entered the scale_numerical_columns method of the Preprocessor class
+2020-05-18/20:34:35		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-05-18/20:35:16		Entered the get_best_model method of the Model_Finder class
+2020-05-18/20:35:16		Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+2020-05-18/20:41:55		KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+2020-05-18/20:41:55		AUC for XGBoost:0.9989785495403474
+2020-05-18/20:41:55		Entered the get_best_params_for_svm method of the Model_Finder class
+2020-05-18/20:43:07		SVM best params: {'C': 1.0, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+2020-05-18/20:43:07		AUC for SVM:0.9969356486210419
+2020-05-18/20:43:07		Entered the save_model method of the File_Operation class
+2020-05-18/20:43:07		Model File KNN saved. Exited the save_model method of the Model_Finder class
+2020-05-18/20:43:07		Successful End of Training
